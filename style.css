@@ -1,1 +1,36 @@
+h1 {
+    background-color:red;
+    text-align:center;
+    font-style: italic;
+}
 
+.none {
+    display: none;
+    font-weight: bolder;
+}
+.inline {
+    display: inline;
+    font-weight: bold;
+}
+.block {
+    display: block;
+    font-weight: bolder;
+}
+
+.visible {
+    visibility: visible;
+}
+.hidden {
+    visibility: hidden;
+}
+
+
+.opc_1 {
+    opacity: 1;
+}
+.opc_05 {
+    opacity: 0.5;
+}
+.opc_0 {
+    opacity: 0;
+}
